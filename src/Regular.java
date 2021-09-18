@@ -19,6 +19,6 @@ public class Regular {
         }
 
     }
-int j;
+
 
 }
